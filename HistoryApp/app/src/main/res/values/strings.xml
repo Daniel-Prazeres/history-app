@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HistoryApp</string>
+    <string name="Text_View">Enter Age: </string>
+    <string name="Btn_Clear">Clear</string>
+    <string name="Btn_Generate_History">Generate History</string>
+    <string name="Enter_Age">1</string>
+    <string name="Text_History"> </string>
+    <string name="Warning1">The age you entered was either bigger than 100, smaller than 20. Please enter another age.</string>
+    <string name="Warning2">The age you entered didnt match any people we know. Please enter another age.</string>
+    <string name="Logo_Name">THE HISTORY APP</string>
+</resources>
